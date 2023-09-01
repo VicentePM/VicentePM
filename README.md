@@ -1,29 +1,39 @@
 <div align="center">
+  <img src="https://your-image-url.com/your-image.jpg" alt="Tu Nombre" width="250px">
   <h1>¡Hola, soy [Tu Nombre]! 👋</h1>
-</div>
-
-<div align="center">
+  <p>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</p>
   <a href="[enlace-a-tu-sitio-web-personal]">Sitio Web</a> |
   <a href="[enlace-a-tu-perfil-de-LinkedIn]">LinkedIn</a> |
-  <a href="[enlace-a-otras-redes-sociales]">Otras Redes Sociales</a>
-</div>
-
-<div align="center">
-  <img src="tu-imagen-de-perfil.jpg" alt="[Tu Nombre]" width="250px">
+  <a href="[enlace-a-otras-redes-sociales]">Twitter</a>
 </div>
 
 ## Sobre mí
 
-¡Bienvenido a mi rincón en GitHub! Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en mi segundo año, apasionado por la programación y la creación de soluciones innovadoras. Me encanta enfrentar desafíos y aprender algo nuevo cada día. Mi objetivo es contribuir al mundo de la tecnología y crear un impacto positivo, una línea de código a la vez. Estoy emocionado de compartir mis proyectos y experiencias contigo.
+¡Bienvenido a mi espacio en GitHub! 🚀 Soy un estudiante apasionado de DAM en mi segundo año, dedicado a dar vida a proyectos creativos y afrontar desafíos tecnológicos. En búsqueda constante de nuevas oportunidades de aprendizaje para hacer de este mundo un lugar mejor, ¡una línea de código a la vez! 🌟
 
 ## Habilidades
 
-- **Lenguajes de Programación**: Python, Java, JavaScript, C++.
-- **Tecnologías**: React, Node.js, MongoDB, Git.
-- **Desarrollo de Aplicaciones Móviles**: Android Studio, Flutter.
-- **Desarrollo Web**: HTML, CSS, Bootstrap.
-- **Bases de Datos**: SQL, Firebase.
-- **Herramientas**: Visual Studio Code, IntelliJ IDEA, GitLab.
+### Lenguajes de Programación
+
+- Python
+- Java
+- JavaScript
+- C++
+
+### Tecnologías y Herramientas
+
+- React
+- Node.js
+- MongoDB
+- Git
+- Android Studio
+- Flutter
+- HTML/CSS
+- Bootstrap
+- SQL
+- Firebase
+- Visual Studio Code
+- IntelliJ IDEA
 
 ## Proyectos Destacados
 
@@ -39,11 +49,11 @@
 
 ## Contacto
 
-¡No dudes en ponerte en contacto conmigo para colaboraciones o cualquier consulta!
+¡Hablemos de proyectos interesantes!
 
 - 📫 Correo Electrónico: [tu@email.com]
 - 🌐 [Sitio Web Personal](enlace-a-tu-sitio-web-personal)
 - 💬 [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
 - 🐦 [Twitter](enlace-a-tu-perfil-de-Twitter)
 
-Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres interesantes mis proyectos y contribuciones! ¡Hablemos de código y construyamos cosas increíbles juntos! 🚀
+Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres inspiración en mis proyectos y contribuciones! ¡Juntos, podemos crear un código asombroso! 💻🌈
