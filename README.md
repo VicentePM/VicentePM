@@ -2,14 +2,14 @@
   <img src="https://your-image-url.com/your-image.jpg" alt="Tu Nombre" width="200px">
 </div>
 
-<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
+<h1 align="center">¡Hola, soy Vicente! 👋</h1>
 
 <p align="center">
   <b>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</b>
 </p>
 
 <p align="center">
-  <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> |
+<!--   <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> | -->
   <a href="[enlace-a-tu-perfil-de-LinkedIn]">📱 LinkedIn</a> |
   <a href="[enlace-a-otras-redes-sociales]">🐦 Twitter</a>
 </p>
@@ -37,7 +37,7 @@
 <!-- Línea de Colores -->
 <hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-<h2>🌟 Proyectos Destacados</h2>
+/*<h2>🌟 Proyectos Destacados</h2>
 
 <!-- Lista de Proyectos con Enlaces y Descripciones -->
 <ul>
@@ -50,7 +50,7 @@
   <li>
     <a href="[enlace-al-proyecto-3]"><strong>Nombre del Proyecto 3</strong></a>: Breve descripción del proyecto 3.
   </li>
-</ul>
+</ul>*/
 
 <!-- Línea de Colores -->
 <hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
@@ -59,12 +59,12 @@
 
 <!-- Estadísticas de GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario-de-GitHub]&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=VicentePM&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
 </p>
 
 <!-- Lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario-de-GitHub]&layout=compact&theme=dark" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicentePM&layout=compact&theme=dark" alt="Lenguajes más usados">
 </p>
 
 <!-- Línea de Colores -->
