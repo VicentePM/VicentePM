@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/your-image.jpg" alt="Tu Nombre" width="200px">
+  <img src="https://your-image-url.com/your-image.jpg" alt="Vicente" width="200px">
 </div>
 
 <h1 align="center">¡Hola, soy Vicente! 👋</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<!--   <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> | -->
+  <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> |
   <a href="[enlace-a-tu-perfil-de-LinkedIn]">📱 LinkedIn</a> |
   <a href="[enlace-a-otras-redes-sociales]">🐦 Twitter</a>
 </p>
@@ -37,7 +37,7 @@
 <!-- Línea de Colores -->
 <hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-/*<h2>🌟 Proyectos Destacados</h2>
+<h2>🌟 Proyectos Destacados</h2>
 
 <!-- Lista de Proyectos con Enlaces y Descripciones -->
 <ul>
@@ -50,7 +50,7 @@
   <li>
     <a href="[enlace-al-proyecto-3]"><strong>Nombre del Proyecto 3</strong></a>: Breve descripción del proyecto 3.
   </li>
-</ul>*/
+</ul>
 
 <!-- Línea de Colores -->
 <hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
@@ -78,7 +78,7 @@
 
 <!-- Enlaces de Contacto -->
 <p align="center">
-  📧 Correo Electrónico: [tu@email.com]<br>
+  📧 Correo Electrónico: vpedraza2003@gmail.com<br>
   🌐 <a href="[enlace-a-tu-sitio-web-personal]">Sitio Web Personal</a><br>
   💬 <a href="[enlace-a-tu-perfil-de-LinkedIn]">LinkedIn</a><br>
   🐦 <a href="[enlace-a-tu-perfil-de-Twitter]">Twitter</a>
