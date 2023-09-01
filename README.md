@@ -1,32 +1,32 @@
-<!-- Cabecera -->
-<p align="center">
+<div align="center">
   <img src="https://your-image-url.com/your-image.jpg" alt="Tu Nombre" width="200px">
-</p>
+</div>
 
 <h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
 
-<p align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</p>
-
-<!-- Botones de Redes Sociales -->
 <p align="center">
-  <a href="[enlace-a-tu-sitio-web-personal]">Sitio Web</a> |
-  <a href="[enlace-a-tu-perfil-de-LinkedIn]">LinkedIn</a> |
-  <a href="[enlace-a-otras-redes-sociales]">Twitter</a>
+  <b>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</b>
 </p>
 
-<!-- Separador -->
-<hr>
+<p align="center">
+  <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> |
+  <a href="[enlace-a-tu-perfil-de-LinkedIn]">📱 LinkedIn</a> |
+  <a href="[enlace-a-otras-redes-sociales]">🐦 Twitter</a>
+</p>
 
-<!-- Sección Sobre Mí -->
-<h2>Sobre Mí</h2>
+<!-- Línea de Colores -->
+<hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-<p>Bienvenido a mi rincón en GitHub, donde mi pasión por la programación cobra vida. Soy un estudiante de DAM en mi segundo año, y cada día me desafío a mí mismo para aprender algo nuevo y crear soluciones innovadoras. Mi objetivo es hacer del mundo un lugar mejor, línea de código a línea de código.</p>
+<h2>👨‍💻 Sobre Mí</h2>
 
-<!-- Separador -->
-<hr>
+<p>
+  ¡Bienvenido a mi espacio en GitHub, donde la programación y la creatividad se unen! Soy un estudiante de DAM en mi segundo año, apasionado por desafiar lo convencional y buscar soluciones innovadoras. Mi misión es hacer del mundo un lugar mejor, una línea de código a la vez. 🌟
+</p>
 
-<!-- Sección Habilidades -->
-<h2>Habilidades</h2>
+<!-- Línea de Colores -->
+<hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
+
+<h2>🚀 Habilidades</h2>
 
 <!-- Lista de Habilidades -->
 <ul>
@@ -34,11 +34,10 @@
   <li><strong>Tecnologías y Herramientas:</strong> React, Node.js, MongoDB, Git, Android Studio, Flutter, HTML/CSS, Bootstrap, SQL, Firebase, Visual Studio Code, IntelliJ IDEA</li>
 </ul>
 
-<!-- Separador -->
-<hr>
+<!-- Línea de Colores -->
+<hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-<!-- Sección Proyectos Destacados -->
-<h2>Proyectos Destacados</h2>
+<h2>🌟 Proyectos Destacados</h2>
 
 <!-- Lista de Proyectos con Enlaces y Descripciones -->
 <ul>
@@ -53,28 +52,33 @@
   </li>
 </ul>
 
-<!-- Separador -->
-<hr>
+<!-- Línea de Colores -->
+<hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-<!-- Sección Estadísticas -->
-<h2>Estadísticas</h2>
+<h2>📊 Estadísticas</h2>
 
 <!-- Estadísticas de GitHub -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario-de-GitHub]&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
 </p>
 
-<!-- Separador -->
-<hr>
+<!-- Lenguajes más usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario-de-GitHub]&layout=compact&theme=dark" alt="Lenguajes más usados">
+</p>
 
-<!-- Sección Contacto -->
-<h2>Contacto</h2>
+<!-- Línea de Colores -->
+<hr style="height:1px;border-width:0;color:#6BBAE7;background-color:#6BBAE7">
 
-<p>No dudes en ponerte en contacto conmigo para colaboraciones, proyectos interesantes o simplemente para charlar sobre programación.</p>
+<h2>📫 Contacto</h2>
+
+<p>
+  ¡Me encantaría colaborar contigo en proyectos emocionantes! No dudes en contactarme en cualquiera de mis redes sociales o por correo electrónico. 🤝
+</p>
 
 <!-- Enlaces de Contacto -->
-<p>
-  📫 Correo Electrónico: [tu@email.com]<br>
+<p align="center">
+  📧 Correo Electrónico: [tu@email.com]<br>
   🌐 <a href="[enlace-a-tu-sitio-web-personal]">Sitio Web Personal</a><br>
   💬 <a href="[enlace-a-tu-perfil-de-LinkedIn]">LinkedIn</a><br>
   🐦 <a href="[enlace-a-tu-perfil-de-Twitter]">Twitter</a>
@@ -82,5 +86,5 @@
 
 <!-- Pie de Página -->
 <p align="center">
-  Gracias por visitar mi perfil de GitHub. ¡Espero que encuentres inspiración en mis proyectos y contribuciones! ¡Hablemos de código y construyamos cosas increíbles juntos! 🚀💻
+  ¡Gracias por visitar mi perfil de GitHub! ¡Espero que te inspires en mis proyectos y contribuciones! ¡Juntos, podemos crear un código asombroso! 🚀💻
 </p>
