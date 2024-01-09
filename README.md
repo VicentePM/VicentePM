@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="vpedraza.com">🌐 Sitio Web</a> |
-  <a href="[[enlace-a-tu-perfil-de-LinkedIn]](https://www.linkedin.com/in/vicente-pedraza-montavez-8050a11b4/)">📱 LinkedIn</a> |
+  <a href="https://www.vpedraza.com">🌐 Sitio Web</a> |
+  <a href="https://www.linkedin.com/in/vicente-pedraza-montavez-8050a11b4/">📱 LinkedIn</a> |
 </p>
 
 <!-- Línea de Colores -->
