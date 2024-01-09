@@ -77,7 +77,7 @@
 
 <!-- Enlaces de Contacto -->
 <p align="center">
-  🌐 <a href="vpedraza.com">Sitio Web Personal</a><br>
+  🌐 <a href="https://www.vpedraza.com">Sitio Web Personal</a><br>
   💬 <a href="https://www.linkedin.com/in/vicente-pedraza-montavez-8050a11b4/">LinkedIn</a><br>
 </p>
 
