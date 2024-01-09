@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="[enlace-a-tu-sitio-web-personal]">🌐 Sitio Web</a> |
-  <a href="[enlace-a-tu-perfil-de-LinkedIn]">📱 LinkedIn</a> |
-  <a href="[enlace-a-otras-redes-sociales]">🐦 Twitter</a>
+  <a href="vpedraza.com">🌐 Sitio Web</a> |
+  <a href="[[enlace-a-tu-perfil-de-LinkedIn]](https://www.linkedin.com/in/vicente-pedraza-montavez-8050a11b4/)">📱 LinkedIn</a> |
 </p>
 
 <!-- Línea de Colores -->
@@ -30,8 +29,8 @@
 
 <!-- Lista de Habilidades -->
 <ul>
-  <li><strong>Lenguajes de Programación:</strong> Python, Java, JavaScript, C++</li>
-  <li><strong>Tecnologías y Herramientas:</strong> React, Node.js, MongoDB, Git, Android Studio, Flutter, HTML/CSS, Bootstrap, SQL, Firebase, Visual Studio Code, IntelliJ IDEA</li>
+  <li><strong>Lenguajes de Programación:</strong> Java, JavaScript, Kotlin, Swift</li>
+  <li><strong>Tecnologías y Herramientas:</strong> Spring Boot, Node.js, MongoDB, Git, Android Studio, SwiftUI, HTML/CSS, Bootstrap, SQL, Firebase, Visual Studio Code, IntelliJ IDEA</li>
 </ul>
 
 <!-- Línea de Colores -->
@@ -42,13 +41,13 @@
 <!-- Lista de Proyectos con Enlaces y Descripciones -->
 <ul>
   <li>
-    <a href="[enlace-al-proyecto-1]"><strong>Nombre del Proyecto 1</strong></a>: Breve descripción del proyecto 1.
+    <a href="https://github.com/VicentePM/Calculator-Sliding-iOS"><strong>Calculator and Sliding Puzzle</strong></a>
   </li>
   <li>
-    <a href="[enlace-al-proyecto-2]"><strong>Nombre del Proyecto 2</strong></a>: Breve descripción del proyecto 2.
+    <a href="https://github.com/VicentePM/HogwartsApp"><strong>Hogwarts APP</strong></a>
   </li>
   <li>
-    <a href="[enlace-al-proyecto-3]"><strong>Nombre del Proyecto 3</strong></a>: Breve descripción del proyecto 3.
+    <a href="https://github.com/VicentePM/renting-api"><strong>Renting API</strong></a>: Breve descripción del proyecto 3.
   </li>
 </ul>
 
@@ -78,10 +77,8 @@
 
 <!-- Enlaces de Contacto -->
 <p align="center">
-  📧 Correo Electrónico: vpedraza2003@gmail.com<br>
-  🌐 <a href="[enlace-a-tu-sitio-web-personal]">Sitio Web Personal</a><br>
-  💬 <a href="[enlace-a-tu-perfil-de-LinkedIn]">LinkedIn</a><br>
-  🐦 <a href="[enlace-a-tu-perfil-de-Twitter]">Twitter</a>
+  🌐 <a href="vpedraza.com">Sitio Web Personal</a><br>
+  💬 <a href="https://www.linkedin.com/in/vicente-pedraza-montavez-8050a11b4/">LinkedIn</a><br>
 </p>
 
 <!-- Pie de Página -->
