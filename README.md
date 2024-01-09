@@ -47,7 +47,7 @@
     <a href="https://github.com/VicentePM/HogwartsApp"><strong>Hogwarts APP</strong></a>
   </li>
   <li>
-    <a href="https://github.com/VicentePM/renting-api"><strong>Renting API</strong></a>: Breve descripción del proyecto 3.
+    <a href="https://github.com/VicentePM/renting-api"><strong>Renting API</strong></a>
   </li>
 </ul>
 
